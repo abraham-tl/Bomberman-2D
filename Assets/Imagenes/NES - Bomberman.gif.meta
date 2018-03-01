@@ -1,0 +1,2007 @@
+fileFormatVersion: 2
+guid: 914c1cfd804ed9747aa6c3ca57f63af3
+timeCreated: 1519170675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Bomberman_0
+    21300002: NES - Bomberman_1
+    21300004: NES - Bomberman_2
+    21300006: NES - Bomberman_3
+    21300008: NES - Bomberman_4
+    21300010: NES - Bomberman_5
+    21300012: NES - Bomberman_6
+    21300014: NES - Bomberman_7
+    21300016: NES - Bomberman_8
+    21300018: NES - Bomberman_9
+    21300020: NES - Bomberman_10
+    21300022: NES - Bomberman_11
+    21300024: NES - Bomberman_12
+    21300026: NES - Bomberman_13
+    21300028: NES - Bomberman_14
+    21300030: NES - Bomberman_15
+    21300032: NES - Bomberman_16
+    21300034: NES - Bomberman_17
+    21300036: NES - Bomberman_18
+    21300038: NES - Bomberman_19
+    21300040: NES - Bomberman_20
+    21300042: NES - Bomberman_21
+    21300044: NES - Bomberman_22
+    21300046: NES - Bomberman_23
+    21300048: NES - Bomberman_24
+    21300050: NES - Bomberman_25
+    21300052: NES - Bomberman_26
+    21300054: NES - Bomberman_27
+    21300056: NES - Bomberman_28
+    21300058: NES - Bomberman_29
+    21300060: NES - Bomberman_30
+    21300062: NES - Bomberman_31
+    21300064: NES - Bomberman_32
+    21300066: NES - Bomberman_33
+    21300068: NES - Bomberman_34
+    21300070: NES - Bomberman_35
+    21300072: NES - Bomberman_36
+    21300074: NES - Bomberman_37
+    21300076: NES - Bomberman_38
+    21300078: NES - Bomberman_39
+    21300080: NES - Bomberman_40
+    21300082: NES - Bomberman_41
+    21300084: NES - Bomberman_42
+    21300086: NES - Bomberman_43
+    21300088: NES - Bomberman_44
+    21300090: NES - Bomberman_45
+    21300092: NES - Bomberman_46
+    21300094: NES - Bomberman_47
+    21300096: NES - Bomberman_48
+    21300098: NES - Bomberman_49
+    21300100: NES - Bomberman_50
+    21300102: NES - Bomberman_51
+    21300104: NES - Bomberman_52
+    21300106: NES - Bomberman_53
+    21300108: NES - Bomberman_54
+    21300110: NES - Bomberman_55
+    21300112: NES - Bomberman_56
+    21300114: NES - Bomberman_57
+    21300116: NES - Bomberman_58
+    21300118: NES - Bomberman_59
+    21300120: NES - Bomberman_60
+    21300122: NES - Bomberman_61
+    21300124: NES - Bomberman_62
+    21300126: NES - Bomberman_63
+    21300128: NES - Bomberman_64
+    21300130: NES - Bomberman_65
+    21300132: NES - Bomberman_66
+    21300134: NES - Bomberman_67
+    21300136: NES - Bomberman_68
+    21300138: NES - Bomberman_69
+    21300140: NES - Bomberman_70
+    21300142: NES - Bomberman_71
+    21300144: NES - Bomberman_72
+    21300146: NES - Bomberman_73
+    21300148: NES - Bomberman_74
+    21300150: NES - Bomberman_75
+    21300152: NES - Bomberman_76
+    21300154: NES - Bomberman_77
+    21300156: NES - Bomberman_78
+    21300158: NES - Bomberman_79
+    21300160: NES - Bomberman_80
+    21300162: NES - Bomberman_81
+    21300164: NES - Bomberman_82
+    21300166: NES - Bomberman_83
+    21300168: NES - Bomberman_84
+    21300170: NES - Bomberman_85
+    21300172: NES - Bomberman_86
+    21300174: NES - Bomberman_87
+    21300176: NES - Bomberman_88
+    21300178: NES - Bomberman_89
+    21300180: NES - Bomberman_90
+    21300182: NES - Bomberman_91
+    21300184: NES - Bomberman_92
+    21300186: NES - Bomberman_93
+    21300188: NES - Bomberman_94
+    21300190: NES - Bomberman_95
+    21300192: NES - Bomberman_96
+    21300194: NES - Bomberman_97
+    21300196: NES - Bomberman_98
+    21300198: NES - Bomberman_99
+    21300200: NES - Bomberman_100
+    21300202: NES - Bomberman_101
+    21300204: NES - Bomberman_102
+    21300206: NES - Bomberman_103
+    21300208: NES - Bomberman_104
+    21300210: NES - Bomberman_105
+    21300212: NES - Bomberman_106
+    21300214: NES - Bomberman_107
+    21300216: NES - Bomberman_108
+    21300218: NES - Bomberman_109
+    21300220: NES - Bomberman_110
+    21300222: NES - Bomberman_111
+    21300224: NES - Bomberman_112
+    21300226: NES - Bomberman_113
+    21300228: NES - Bomberman_114
+    21300230: NES - Bomberman_115
+    21300232: NES - Bomberman_116
+    21300234: NES - Bomberman_117
+    21300236: NES - Bomberman_118
+    21300238: NES - Bomberman_119
+    21300240: NES - Bomberman_120
+    21300242: NES - Bomberman_121
+    21300244: NES - Bomberman_122
+    21300246: NES - Bomberman_123
+    21300248: NES - Bomberman_124
+    21300250: NES - Bomberman_125
+    21300252: NES - Bomberman_126
+    21300254: NES - Bomberman_127
+    21300256: NES - Bomberman_128
+    21300258: NES - Bomberman_129
+    21300260: NES - Bomberman_130
+    21300262: NES - Bomberman_131
+    21300264: NES - Bomberman_132
+    21300266: NES - Bomberman_133
+    21300268: NES - Bomberman_134
+    21300270: NES - Bomberman_135
+    21300272: NES - Bomberman_136
+    21300274: NES - Bomberman_137
+    21300276: NES - Bomberman_138
+    21300278: NES - Bomberman_139
+    21300280: NES - Bomberman_140
+    21300282: NES - Bomberman_141
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 264
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 264
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 265
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 239
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 238
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 214
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 214
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 214
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 214
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 214
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 214
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 193
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 192
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 156
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 156
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 138
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 120
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 120
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 102
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 84
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 85
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 85
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 84
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 66
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_95
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_102
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_106
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_112
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_113
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_124
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_125
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_127
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_128
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_131
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_133
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_134
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_137
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_141
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 237
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
