@@ -18,20 +18,23 @@ public class Comparar : MonoBehaviour {
     {
        
         aux = 0;
-        for (int i =0; i <= fila;i++)
+        for (int i =0; i < col;i++)
         {
-            for (int j =0;j<= col;j++)
+            for (int j =0;j< fila;j++)
             {
-                if (j> 0)
+                //print("j= "+j+" i= "+ i);
+                if (j > 0)
                 {
+
                     if (esferas[i, j].GetComponent<Renderer>().material.color == esferas[i, j - 1].GetComponent<Renderer>().material.color)
                     {
-                        print("HOLAAAAA");
-                        print(i);
-                        print(j & j-1);
+
+                        esferas[i, j].GetComponent<Renderer>().material.color = Color.black;
+                        esferas[i, j-1].GetComponent<Renderer>().material.color = Color.black;
+
                     }
                 }
-                
+
             }
         }
     }

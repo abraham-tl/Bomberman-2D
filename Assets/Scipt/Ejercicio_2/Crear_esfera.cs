@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Crear_esfera : MonoBehaviour {
     public bool crear;
+    bool otra;
     int filas;
     int columnas;
     Color[] colore;
@@ -15,19 +16,25 @@ public class Crear_esfera : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         colore = new Color[4];
-	}
+        Colores();
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		if (crear )
+		if (crear && !otra)
         {
-            Colores();
-            Crear_matriz();
-            crear = false;
             
+            Crear_matriz();
+            otra = true;
+        }
+        if (!crear && otra )
+        {
+            eliminar_esferas();
+            otra = false;
         }
         else
         {
+
             if (compa )
             {
                 comparar.Compara(esferas,colore,columnas ,filas);
@@ -39,15 +46,15 @@ public class Crear_esfera : MonoBehaviour {
     {
         columnas = Random.Range(3, 13);
         filas = Random.Range(3, 13);
-        esferas= new GameObject [filas,columnas];
+        esferas= new GameObject [columnas,filas];
 
-        for (int i = 0; i<filas ; i++)
+        for (int i = 0; i<columnas ; i++)
         {
-            for (int j = 0;j<columnas;j++)
+            for (int j = 0;j<filas;j++)
             {
                 color = Random.Range(0,3);
                 GameObject esfera = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-                esfera.transform.position  = new Vector3(i * 1.2f, j*1.2f, 0);
+                esfera.transform.position  = new Vector3(j*1.2f, i * 1.2f, 0);
                 esfera.GetComponent<Renderer>().material.color = colore[color];
                 esferas[i,j] = esfera;
             }
@@ -62,5 +69,15 @@ public class Crear_esfera : MonoBehaviour {
         colore[2] = Color.yellow;
         colore[3] = Color.green ;
     }
-
+    void eliminar_esferas()
+    {
+        for (int i =0; i < columnas;i++)
+        {
+            for (int j =0;j<filas;j++)
+            {
+                Destroy(esferas[i,j]);
+            }
+        }
+       
+    }
 }
